@@ -29,7 +29,7 @@ Here are a few of my favorite tools and languages that keep my code fueled and m
 ## 📊 GitHub Stats
 
 <!-- Replace USERNAME with your GitHub username -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByTomas&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByTomas&show_icons=true&theme=nord)
 
 ---
 
