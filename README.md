@@ -9,7 +9,7 @@ Welcome to my little corner of GitHub, where code meets creativity and coffee fu
 - 🌱 Currently learning all things **Python / IoT / Linux**.
 - 👾 Fun fact: If procrastination were a programming language, I’d be fluent.
 - 🎨 Hobbies: Coding, coffee, and the occasional doodle!
-- 🥅 Goals for 2024: Deploy a rocket to the moon powered by Raspberry Pi.
+- 🥅 Goals for 2026: Deploy a rocket to the moon powered by Raspberry Pi.
 
 ---
 
