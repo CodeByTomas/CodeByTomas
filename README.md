@@ -60,12 +60,16 @@ I’m not chasing trends. I’m building fundamentals.
 
 > This section will grow as projects mature.
 
-- **🔹 Project Name**
-  - Short description of what it does
-  - What problem it solves or what you learned
-  - Link to repo
+## 🔗 Selected Repositories
 
-(Add 2–3 real projects here. This matters more than everything above.)
+- **Python Backup Tool** – automation utility  
+  https://github.com/CodeByTomas/python_backup_app
+
+- **Daily Focus Timer** – productivity CLI  
+  https://github.com/CodeByTomas/daily_focus_timer
+
+- **Weather App** – API-based Python project  
+  https://github.com/CodeByTomas/my_weather_app
 
 ---
 
