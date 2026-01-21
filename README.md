@@ -46,12 +46,15 @@ I’m not chasing trends. I’m building fundamentals.
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 **How I use them:**
 - Python for automation, tooling, and experiments
 - Bash for glue code and system tasks
 - Linux for development, testing, and learning how systems actually behave
+- HTML & CSS for simple interfaces, dashboards, and lightweight frontends
 - Git for version control and discipline, not just backups
 
 ---
