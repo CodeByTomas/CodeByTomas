@@ -78,7 +78,7 @@ I’m not chasing trends. I’m building fundamentals.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByTomas&show_icons=true&theme=nord)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomas-ramoska&show_icons=true&theme=nord)
 
 ---
 
