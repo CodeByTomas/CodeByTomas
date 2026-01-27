@@ -93,7 +93,7 @@ I’m not chasing trends. I’m building fundamentals.
 
 ## Contact
 
-- 🌐 https://tomasramoska.com  
+- 🌐 [https://tomasramoska.com](https://tomas-ramoska.github.io/)  
 - 📧 t.ramoska@gmail.com
 
 ---
